@@ -1,0 +1,10 @@
+.homeScreen {
+  border: 3px solid black;
+  display: flex;
+  width: 294px;
+  height: 238px;
+  background-color: white;
+  border-radius: 5%;
+  overflow: hidden;
+  background-image: url("https://t4.ftcdn.net/jpg/05/21/18/03/240_F_521180377_2iAVJqBQSo3cgKaVp8vMBR8asrC61DoU.jpg");
+}

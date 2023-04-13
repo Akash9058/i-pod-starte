@@ -1,0 +1,43 @@
+.wheelContainer{
+    margin: auto;
+}
+
+.wheelMenu{
+    /* position: relative; */
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.wheelForeground{
+    position: absolute;
+    background-color: #b9b9b9;
+    border-radius: 50%;
+    border: none;
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+}
+
+.menuSpan{
+    position: absolute;
+    top: 315px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+}
+
+.playPause{
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    bottom: 15px;
+}
